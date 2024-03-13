@@ -81,7 +81,7 @@ const DrumKit = () => {
 
   return (
     <div>
-      <h1 id="title">Drum 🥁 Kit</h1>
+      <h1 id="title">Drum Kit</h1>
   <div className="set">
     <button className="w drum">w</button>
     <button className="a drum">a</button>

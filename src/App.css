@@ -1,22 +1,18 @@
-.App {
-  text-align: center;
-}
 
-.App-header {
-  background-color: #282c34;
-  padding: 20px;
-  color: white;
-}
+.drum{
+    background-color: rgb(100, 251, 178);
+    width: 100px;
+    height: 100px;
 
-.drum-pad {
-  display: inline-block;
-  padding: 20px;
-  margin: 10px;
-  background-color: #61dafb;
-  cursor: pointer;
-  font-size: 24px;
 }
+.set{
 
-.clip {
-  display: none;
+display: flex;
+justify-content: center;
+margin-top: 20rem;
+}
+#title{
+   display: flex;
+    justify-content: center;
+
 }
